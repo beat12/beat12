@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=ParkDong&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=ParkDong&fontSize=90" />
+
 
 
 
@@ -6,7 +7,7 @@
 
 <p align="center"> Techs that I've used at least once </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/CSharp-00599C?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
