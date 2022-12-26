@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ParkDong&fontSize=70&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=ParkDong's Github&fontSize=50" />
 
 
 
@@ -32,4 +32,4 @@
   <a href="mailto:print.beat98@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=print.beat98@gmail.com"/></a>
 </p>
 <br>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
